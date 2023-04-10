@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+src/scrap-modules/gt.js
+src/scrap-modules/km.js
+src/urls-codes
+src/utils/url-combine.js
+src/utils/scrapper.csv
+
